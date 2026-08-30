@@ -473,7 +473,7 @@ class CoachChatIn(BaseModel):
 
 
 _coach_rate = {}
-COACH_DAILY_LIMIT = 15          # messages per daily session
+COACH_DAILY_LIMIT = 10         # messages per daily session
 COACH_MIN_INTERVAL = 2.0        # seconds between messages (rate limit)
 
 
