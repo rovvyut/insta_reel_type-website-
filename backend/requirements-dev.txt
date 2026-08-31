@@ -1,4 +1,0 @@
-# Development / test only. Not installed in production.
--r requirements.txt
-pytest==9.1.1
-pytest-xdist==3.8.0
